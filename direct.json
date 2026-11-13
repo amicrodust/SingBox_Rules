@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "wilburstorch.dpdns.org"
+        "wilburstorch.dpdns.org",
+        "get.aliceincradle.dev"
       ]
     }
   ]
