@@ -4,9 +4,11 @@
     {
       "domain": [
         "wilburstorch.dpdns.org",
-        "get.aliceincradle.dev",
+        "get.aliceincradle.dev"
+      ],
+      "domain_suffix": [
         "dagongchengshi.com"
-      ]
+      ] 
     }
   ]
 }
